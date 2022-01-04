@@ -1,2 +1,2 @@
 # autuTest
-api automation test
+  -pip install numpy
