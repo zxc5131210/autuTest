@@ -11,12 +11,12 @@ fromTime = int(btse_nonce)-9000
 fromTime = str(fromTime)
 
 # define user status
-Coin = "SKL"
+Coin = "ADA"
 Type = '-USD'
-base_url = "https://testnet.btse.io"
-Token = "USER_TOKEN_LOGIN_2517756c5a9be6ac007fe9bb7fb92611_b7966c7269e54e22893e9575674d8176"
-SendtoUser = "zxc513121020"
-Sendtoemail = "zxc5131210@yahoo.com.tw"
+base_url = "https://spot.oa.btse.io"
+Token = "USER_TOKEN_LOGIN_8677065f187e98d8beacdc700e49f6ef_a6610a23627a4c029c507f1e69d6c5dd"
+SendtoUser = "xitayo9939"
+Sendtoemail = "xitayo9939@upsdom.com"
 
 headers = {
     'token': Token,
